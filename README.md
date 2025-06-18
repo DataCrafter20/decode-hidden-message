@@ -73,11 +73,7 @@ F
 
 ## 📦 Installation
 
-### Clone this repository
 
-```bash
-git clone https://github.com/yourusername/secret-message-decoder.git
-cd secret-message-decoder
 ```bash
 
 
@@ -113,7 +109,7 @@ This extracts patterns like `A23`, where:
 
 ## 👤 Author
 
-**Your Name**
+**NDIVHUWO MUNYAI**
 📧 [nmunyai11@gmail.com](mailto:your.email@example.com)
 🔗 [https://github.com/DataCrafter20](https://github.com/yourusername)
 
