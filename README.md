@@ -109,9 +109,9 @@ This extracts patterns like `A23`, where:
 ## 👤 Author
 
 **NDIVHUWO MUNYAI**
-📧 [nmunyai11@gmail.com](mailto:your.email@example.com)
-🔗 [https://github.com/DataCrafter20](https://github.com/yourusername)
-🔗 [https://linkedin.com/in/ndivhuwo-munyai-390a58337](https://linkedin.com/in/yourusername)
+- 📧 [nmunyai11@gmail.com](mailto:your.email@example.com)
+- 🔗 [https://github.com/DataCrafter20](https://github.com/yourusername)
+- 🔗 [https://linkedin.com/in/ndivhuwo-munyai-390a58337](https://linkedin.com/in/yourusername)
 
 ---
 
