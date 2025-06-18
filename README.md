@@ -54,4 +54,78 @@ F
 F
 F
 F
- $
+---
+````markdown
+
+---
+
+## 📂 Files
+
+- `decode_message.py`: Contains the complete Python code.
+- `README.md`: This file.
+
+---
+
+## 💻 Technologies Used
+
+- Python 3.x
+- `requests` library
+- `re` module (regular expressions)
+
+---
+
+## 📦 Installation
+
+### Clone this repository
+
+```bash
+git clone https://github.com/yourusername/secret-message-decoder.git
+cd secret-message-decoder
+````
+
+### Install dependencies
+
+```bash
+pip install requests
+```
+
+### Run the script
+
+```bash
+python decode_message.py
+```
+
+---
+
+## 🔧 Sample Code Snippet
+
+```python
+patterns = re.findall(r"([^\s\d])(\d)(\d)", url_from_response)
+```
+
+This extracts patterns like `A23`, where:
+
+* `A` is the character
+* `2` is the x-coordinate
+* `3` is the y-coordinate
+
+---
+
+## 👤 Author
+
+**Your Name**
+📧 [nmunyai11@gmail.com](mailto:your.email@example.com)
+🔗 [https://github.com/DataCrafter20](https://github.com/yourusername)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+```
+
+Let me know your real name, GitHub link, or email and I can plug those into the Author section for you!
+```
+
+```bash
