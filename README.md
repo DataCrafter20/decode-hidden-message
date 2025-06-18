@@ -73,13 +73,14 @@ F
 
 ## 📦 Installation
 
+download the python script and open it into your prefered compiler or notebook but colab is recommended because the script was coded on it
 
 ```bash
 
 
 ````
 
-### Install dependencies
+### Install dependencies if using offline compiler
 
 ```bash
 pip install requests
