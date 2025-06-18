@@ -73,10 +73,8 @@ F
 
 ## 📦 Installation
 
-download the python script and open it into your prefered compiler or notebook but colab is recommended because the script was coded on it
-
 ```bash
-
+Download the python script and open it into your prefered compiler or notebook but colab is recommended because the script was coded on it
 
 ````
 
@@ -113,6 +111,7 @@ This extracts patterns like `A23`, where:
 **NDIVHUWO MUNYAI**
 📧 [nmunyai11@gmail.com](mailto:your.email@example.com)
 🔗 [https://github.com/DataCrafter20](https://github.com/yourusername)
+🔗 [https://linkedin.com/in/ndivhuwo-munyai-390a58337](https://linkedin.com/in/yourusername)
 
 ---
 
