@@ -118,10 +118,3 @@ This extracts patterns like `A23`, where:
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-```
-
-Let me know your real name, GitHub link, or email and I can plug those into the Author section for you!
-```
-
-```bash
