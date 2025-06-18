@@ -40,7 +40,7 @@ This helper extracts and prints only **uppercase letters** from the decoded grid
 ## 🧪 Example Usage
 
 ```bash
-$ python decode_message.py
+$ python message_decoder.py
 Enter or copy and paste the URL: https://docs.google.com/document/d/your-example-id
 decoded message:
 F    
