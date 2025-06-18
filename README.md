@@ -24,7 +24,7 @@ Empty grid positions are filled with spaces. The grid size is determined dynamic
 
 ## 🚀 How It Works
 
-### Main Function: `decode_message(url)`
+### Main Function: `message_decoder(url)`
 1. Downloads the text content from the provided URL using the `requests` library.
 2. Uses regular expressions to extract all matching character-coordinate patterns.
 3. Determines the grid size based on the maximum `x` and `y` values.
@@ -58,7 +58,7 @@ F
 
 ## 📂 Files
 
-- `decode_message.py`: Contains the complete Python code.
+- `message_decoder.py`: Contains the complete Python code.
 - `README.md`: This file.
 
 ---
@@ -87,7 +87,7 @@ pip install requests
 ### Run the script
 
 ```bash
-python decode_message.py
+python message_decoder.py
 ```
 
 ---
