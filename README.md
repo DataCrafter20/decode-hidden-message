@@ -54,26 +54,5 @@ F
 F
 F
 F
-
+ $
 ## 📂 Files
-
-- `decode_message.py`: Contains the complete Python code.
-- `README.md`: This file.
-
----
-
-## 💻 Technologies Used
-
-- Python 3.x
-- `requests` library
-- `re` module (regular expressions)
-
----
-
-## 📦 Installation
-
-### Clone this repository:
-
-```bash
-git clone https://github.com/yourusername/secret-message-decoder.git
-cd secret-message-decoder
