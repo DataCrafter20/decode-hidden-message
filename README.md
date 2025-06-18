@@ -1,4 +1,4 @@
-# 🔐 Decoding a Secret Message from a Grid
+# 🔐 Decoding a Secret Message from a Google Doc
 
 This project solves a coding exercise where the goal is to decode a visual message hidden in a grid of Unicode characters and coordinates retrieved from a Google Docs URL.
 
