@@ -54,10 +54,7 @@ F
 F
 F
 F
----
-````markdown
-
----
+````
 
 ## 📂 Files
 
@@ -81,6 +78,9 @@ F
 ```bash
 git clone https://github.com/yourusername/secret-message-decoder.git
 cd secret-message-decoder
+```bash
+
+
 ````
 
 ### Install dependencies
